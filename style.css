@@ -5,5 +5,8 @@ body {
   }
   
   .thebird{
-    opacity: .8;
+    opacity: .7;
   }
+.thebirds{
+  opacity: .7;
+}
