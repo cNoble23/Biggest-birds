@@ -1,4 +1,4 @@
-body {
+.body {
  background-image: url('img/backgroundhome.webp');
  background-repeat: no-repeat;
  background-size: cover;
@@ -9,4 +9,16 @@ body {
   }
 .thebirds{
   opacity: .7;
+}
+.body2{
+  background-image: url("img/aboutback2.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 10;
+  color: rgb(251, 251, 251);
+  
+}
+.carousel2{
+  text-align: center;
+  
 }
