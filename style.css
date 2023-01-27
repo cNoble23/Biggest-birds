@@ -1,5 +1,5 @@
 .body {
- background-image: url('img/backgroundhome.webp');
+ background-image: url('img/home.webp');
  background-repeat: no-repeat;
  background-size: cover;
   }
@@ -47,4 +47,7 @@ html,body{
 }
 .wave{
   opacity: .8;
+}
+h1{
+  color: azure;
 }
