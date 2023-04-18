@@ -14,7 +14,7 @@
   background-image: url("img/aboutback2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 10;
+  opacity: 3;
   color: rgb(251, 251, 251);
   
 }
@@ -56,4 +56,7 @@ h1{
 }
 .dark{
   color: rgb(0, 60, 255);
+}
+.Lets{
+  color: grey;
 }
